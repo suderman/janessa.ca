@@ -1,0 +1,58 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<div class="side panel">
+  <div class="content">
+    {% include navigation.html %}
+  </div>
+</div>
+
+<div class="main panel">
+  <div class="content">
+
+    <h1>{{page.title}}</h1>
+
+    <figure class="cover">
+      <img src="{{page.cover}}">
+    </figure>
+
+    {{ content }}
+
+    <ul class="buy paper">
+      <li>
+        <a class="button" href="{{page.amazon}}">
+          <img src="/images/amazon.png" alt="Amazon Paperback" />
+        </a>
+      </li>
+      <li>
+        <a class="button" href="{{page.createspace}}">
+          <img src="/images/createspace.png" alt="Create Space" />
+        </a>
+      </li>
+    </ul>
+
+    <ul class="buy digital">
+      <li>
+        <a class="button" href="{{page.kindle}}">
+          <img src="/images/kindle.png" alt="Amazon Kindle" />
+        </a>
+      </li>
+      <li>
+        <a class="button" href="{{page.kobo}}">
+          <img src="/images/kobo.png" alt="Kobo" />
+        </a>
+      </li>
+      <li>
+        <a class="button" href="{{page.ibooks}}">
+          <img src="/images/ibooks.png" alt="Apple iBooks" />
+        </a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+{% include tail.html %}

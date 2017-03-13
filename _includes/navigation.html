@@ -1,0 +1,29 @@
+<div class="table-of-contents">
+
+  <h2>Table of Contents</h2>
+
+  <ul>
+    <li><a href="/"><span>Home</span></a></li>
+
+    <li><a href="/books"><span>Books</span></a>
+      <ul>
+        {% for book in site.books %}
+          <li>
+            <a href="{{ book.url }}" title="{{ book.title}}">
+              <span>{{book.title}}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+
+    <li><a href="/about"><span>About the Author</span></a></li>
+
+    {% comment %}
+    <li><a href="/blog"><span>Blog</span></a></li>
+      <li><a href="/contact"><span>Contact</span></a></li>
+    {% endcomment %}
+
+  </ul>
+
+</div>

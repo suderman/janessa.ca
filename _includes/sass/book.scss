@@ -1,0 +1,78 @@
+@import "variables";
+
+figure.cover {
+  width: 100%; 
+  float: none;
+  margin: 0 0 1em;
+
+  @media #{$md} {
+    width: 40%; 
+    float: left;
+    margin: 0 2em 1em 0;
+  }
+
+  img {
+    // border: double orange;
+    // border-image: url("/images/border.png") 30% repeat;
+    // border-image-source: url("/images/border.png"); 
+    // border-image-slice: 20 40 20 40;
+    // border-image-width: 20px 10% 20 10%;
+  }
+}
+
+ul.buy {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+  li { display: inline-block; }
+
+  a.button {
+    display: block;
+    overflow: hidden;
+    // background: transparent url(/) no-repeat left top;
+    // background-size: contain;
+    border: 5px solid #ccc;
+    border-radius: 15px;
+    max-width: 8em;
+    margin: 0 0.5em 0.5em;
+  }
+
+  a.button img {
+    height: 100%;
+    width: 100%;
+    float: none;
+    box-shadow: none;
+    margin: 0;
+    display: block;
+  }
+}
+
+
+ul.books {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  
+  li {
+    display: block;
+    flex-grow: 1;
+    text-align: center;
+    a { text-decoration: none; }
+  }
+
+  h4 {
+    display: none;
+    background: black;
+    color: white;
+    text-decoration: none;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0.25em 1em;
+    font-size: 1em;
+    text-transform: uppercase;
+  }
+}

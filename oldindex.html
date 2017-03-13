@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<img src="/images/sts.png" id="avatar">
+
+<h1><span>J</span>anessa <span>S</span>uderman</h1>
+<h3>{{ site.description }}</h3>
+
+<ul class="books">
+  <li class="book">
+    <img src="/images/summer-trails-book-1.jpg">
+    <h2>Summer Trails</h2>
+  </li>
+  <li class="book">
+    <img src="/images/summer-trails-book-2.jpg">
+    <h2>Trails in the Wilderness</h2>
+  </li>
+  <li class="book">
+    <img src="/images/summer-trails-book-3.jpg">
+    <h2>Trails to Love</h2>
+  </li>
+</ul>
+
+<ul class="links">
+  {% if site.amazon  %}
+  <li><a class="fa fa-2x fa-amazon" href="{{ site.amazon }}"><span class="description">Amazon</span></a></li>
+  {% endif %}
+  {% if site.email %}
+  <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
+  {% endif %}
+</ul>

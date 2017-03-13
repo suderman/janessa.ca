@@ -1,0 +1,46 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<div class="side panel">
+  <div class="content">
+    {% include navigation.html %}
+  </div>
+</div>
+
+<div class="main panel">
+
+  <!-- <div class="content banner"> -->
+  <!--   <img src="/images/janessa&#45;suderman.png" alt="Janessa Suderman"> -->
+  <!-- </div> -->
+
+  <div class="content">
+
+    <figure class="hero">
+        <img src="/images/janessa-suderman.png" alt="Janessa Suderman">
+    </figure>
+
+    <div class="feature">
+      <figure class="feature">
+        <a href="/books/summer-trails" title="Summer Trails">
+          <img src="/images/Summer-Trails-Book-1.jpg">
+        </a>
+      </figure>
+      <figcaption>
+        <h2>Now Available Free!</h2>
+        <p>Free to download on <a
+            href="https://www.kobo.com/ebook/summer-trails">Kobo</a> and
+          <a
+            href="https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG">Apple
+            iBooks</a>. Only $0.99 on <a href="http://myBook.to/summer-trails">Amazon
+            Kindle</a>.</p>
+      </figcaption>
+    </div>
+
+    {{ content }}
+  </div>
+</div>
+
+{% include tail.html %}

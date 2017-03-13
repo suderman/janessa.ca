@@ -9,12 +9,7 @@ $(function() {
   }
   $(window).on('load', panelHeights);
   $(window).on('resize', panelHeights);
-
-
-  // $('a.menu').click(function(e) {
-  //   e.stopPropagation();
-  //   $('.full').toggleClass('nav');
-  // });
+  setTimeout(panelHeights, 3000);
 
   $('button.hamburger').click(function(e) {
     e.stopPropagation();

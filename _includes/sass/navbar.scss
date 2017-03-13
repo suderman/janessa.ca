@@ -79,7 +79,7 @@ nav.bar {
 
     display: block;
     position: absolute;
-    z-index: 60;
+    z-index: 30;
     color: white;
     font-weight: bold;
     font-size: 1.5em;
@@ -92,7 +92,7 @@ nav.bar {
     text-decoration: none; 
     b { font-size: 1.2em; font-weight: normal; }
 
-    left: 55%;
+    left: 53%;
     @media #{$sm} { left: 65%; }
     // @media #{$md} { left: 60%; }
     // @media #{$lg} { left: 56%; }
@@ -178,7 +178,7 @@ button.hamburger {
     @media #{$sm} { right: 52%; }
   }
 
-  z-index: 20;
+  z-index: 40;
   overflow: hidden;
   margin: 0;
   padding: 0;

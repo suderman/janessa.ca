@@ -1,6 +1,7 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-1.jpg 
+description: A fresh and fun coming-of-age novella for ages 11-18, or anyone who loves horses!
 
 amazon: http://myBook.to/summer-trails-paperback
 createspace: https://www.createspace.com/6682559

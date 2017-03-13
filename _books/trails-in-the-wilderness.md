@@ -1,6 +1,7 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-2.jpg 
+description: Come along for the ride with this thrilling sequel, for horse-lovers ages 11-18! Yee-haw!
 
 amazon: http://mybook.to/trails-in-the-wilderness-paperback
 createspace: https://www.createspace.com/6854548

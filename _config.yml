@@ -1,7 +1,7 @@
 # Site settings
-name: "Janessa"
+name: "Janessa Suderman"
 description: "Wife, mother, author"
-url: ""
+url: "https://janessa.ca"
 
 collections:
   books:

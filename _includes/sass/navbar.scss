@@ -102,7 +102,7 @@ nav.bar {
     @media #{$xl} { left: 5%; }
 
     body.hamburger & {
-      left: 10%;
+      left: 8%;
     }
 
     transition: left 0.3s ease-in-out;

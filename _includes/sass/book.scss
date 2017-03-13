@@ -46,7 +46,28 @@ ul.buy {
     margin: 0;
     display: block;
   }
+
+  a.button:after {
+    position: absolute;
+    top: 5px;
+    right: -50px;
+    background: deeppink;
+    color: white;
+    padding: 2px 55px;
+    transform: rotate(30deg);
+    font-size: 14px;
+    font-family: verdana;
+  }
+
+  a.button[href="http://myBook.to/summer-trails"]:after {
+    content: '99¢';
+  }
+  a.button[href="https://www.kobo.com/ebook/summer-trails"]:after,
+  a.button[href="https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG"]:after {
+    content: 'FREE!';
+  }
 }
+
 
 
 ul.books {

@@ -16,7 +16,7 @@ include:
   - _pages
 
 sass:
-  # style: compressed
+  style: compressed
   sass_dir: _includes/sass
   sourcemap: true
 

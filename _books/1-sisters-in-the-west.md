@@ -10,7 +10,7 @@ series: sisters-in-the-west
 amazon: http://mybook.to/sisters-in-the-west-pb
 kindle: http://mybook.to/sisters-in-the-west
 kobo: https://www.kobo.com/ebook/sisters-in-the-west
-ibooks: https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG
+ibooks: #
 ---
 
 Claire and Nellie Preston are sisters; but that’s about all they have in

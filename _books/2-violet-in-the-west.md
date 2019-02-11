@@ -10,7 +10,7 @@ series: sisters-in-the-west
 amazon: http://mybook.to/violet-in-the-west-pb
 kindle: http://mybook.to/violet-in-the-west
 kobo: https://www.kobo.com/ebook/violet-in-the-west
-ibooks: https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG
+ibooks: #
 ---
 
 Violet Anderson has always longed-for adventure…and she gets more than she

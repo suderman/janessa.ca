@@ -1,10 +1,12 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-2.jpg 
+permalink: /books/trails-in-the-wilderness
+title: Trails in the Wilderness
 description: Come along for the ride with this thrilling sequel, for horse-lovers ages 11-18! Yee-haw!
+series: summer-trails
 
 amazon: http://mybook.to/trails-in-the-wilderness-paperback
-createspace: https://www.createspace.com/6854548
 kindle: http://mybook.to/trails-in-the-wilderness
 kobo: https://www.kobo.com/ebook/trails-in-the-wilderness
 ibooks: https://geo.itunes.apple.com/us/book/trails-in-the-wilderness/id1210874136?mt=11&at=1001luwG

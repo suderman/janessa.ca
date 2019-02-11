@@ -1,10 +1,12 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-1.jpg 
+permalink: /books/summer-trails
+title: Summer Trails
 description: A fresh and fun coming-of-age novella for ages 11-18, or anyone who loves horses!
+series: summer-trails
 
 amazon: http://myBook.to/summer-trails-paperback
-createspace: https://www.createspace.com/6682559
 kindle: http://myBook.to/summer-trails
 kobo: https://www.kobo.com/ebook/summer-trails
 ibooks: https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG

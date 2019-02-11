@@ -22,25 +22,29 @@ layout: compress
         <img src="/images/janessa-suderman.png" alt="Janessa Suderman">
     </figure>
 
+    {% for book in site.books %}
+    {% if book.series == 'sisters-in-the-west' %}
+
     <div class="feature">
       <figure class="feature">
-        <a href="/books/summer-trails" title="Summer Trails">
-          <img src="/images/Summer-Trails-Book-1.jpg">
+        <a href="{{ book.url }}" title="{{ book.title }}">
+          <img src="{{ book.cover }}" alt="{{ book.title }}">
         </a>
       </figure>
       <figcaption>
-        <h2>Now Available Free!</h2>
-        <p>Free to download on <a
-            href="https://www.kobo.com/ebook/summer-trails">Kobo</a> and
-          <a
-            href="https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG">Apple
-            iBooks</a>. Only $0.99 on <a href="http://myBook.to/summer-trails">Amazon
-            Kindle</a>.</p>
+        <h2>Now Available:<br>{{ book.title }}</h2>
+        <p>Paperback available for $6.49 USD from <a href="{{ book.amazon }}">Amazon</a>.</p>
+        <p>Download ebook for $2.99 USD available on <a href="{{ book.kobo }}">Kobo</a>, <a
+          href="{{ book.ibooks }}">Apple iBooks</a>, and <a href="{{ book.kindle }}">Amazon Kindle</a>.</p>
       </figcaption>
     </div>
+
+    {% endif %}
+    {% endfor %}
 
     {{ content }}
   </div>
 </div>
+
 
 {% include tail.html %}

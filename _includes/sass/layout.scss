@@ -119,6 +119,16 @@
       padding: 0 5px;
       margin: 0 -5px;
       color: #000;
+
+      em {
+        color: pink;
+        display: inline-block;
+        padding: 0 4px;
+        background: rgb(255,20,147);
+        color: white;
+        font-size: 70%;
+        font-style: normal;
+      }
     }
   }
 

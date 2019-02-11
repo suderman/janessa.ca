@@ -9,7 +9,6 @@ collections:
     permalink: /:collection/:path/
     title: Books
 
-
 email: janessa@janessa.ca
 
 include:
@@ -23,3 +22,6 @@ sass:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+host: 0.0.0.0
+port: 5000

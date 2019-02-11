@@ -1,10 +1,12 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-3.jpg 
+permalink: /books/trails-to-love
+title: Trails to Love
 description: Book 3 packs a punch - drama, romance, and best of all, fun! The perfect light read for horse-lovers ages 11-18.
+series: summer-trails
 
 amazon: http://mybook.to/trails-to-love-paperback
-createspace: https://www.createspace.com/6854589
 kindle: http://mybook.to/trails-to-love
 kobo: https://www.kobo.com/ebook/trails-to-love
 ibooks: https://geo.itunes.apple.com/us/book/trails-to-love/id1210875798?mt=11&at=1001luwG

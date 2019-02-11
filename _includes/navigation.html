@@ -10,7 +10,10 @@
         {% for book in site.books %}
           <li>
             <a href="{{ book.url }}" title="{{ book.title}}">
-              <span>{{book.title}}</span>
+              <span>
+                {{book.title}}
+                {% if book.new %}<em>new!</em>{% endif %}
+              </span>
             </a>
           </li>
         {% endfor %}

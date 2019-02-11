@@ -9,7 +9,7 @@ $(function() {
   }
   $(window).on('load', panelHeights);
   $(window).on('resize', panelHeights);
-  setTimeout(panelHeights, 3000);
+  setTimeout(panelHeights, 2000);
 
   $('button.hamburger').click(function(e) {
     e.stopPropagation();

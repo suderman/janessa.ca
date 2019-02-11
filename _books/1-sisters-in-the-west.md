@@ -10,7 +10,8 @@ series: sisters-in-the-west
 amazon: http://mybook.to/sisters-in-the-west-pb
 kindle: http://mybook.to/sisters-in-the-west
 kobo: https://www.kobo.com/ebook/sisters-in-the-west
-ibooks: #
+ibooks: https://geo.itunes.apple.com/us/book/sisters-in-the-west/id1452120897?mt=11
+
 ---
 
 Claire and Nellie Preston are sisters; but that’s about all they have in

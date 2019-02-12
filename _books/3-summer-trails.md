@@ -10,6 +10,8 @@ amazon: http://myBook.to/summer-trails-paperback
 kindle: http://myBook.to/summer-trails
 kobo: https://www.kobo.com/ebook/summer-trails
 ibooks: https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG
+barnesnoble: https://www.barnesandnoble.com/w/summer-trails-janessa-j-r-suderman/1125699546
+
 ---
 
 ## Book 1 of the Summer Trails Series

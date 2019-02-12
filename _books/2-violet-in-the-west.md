@@ -11,6 +11,8 @@ amazon: http://mybook.to/violet-in-the-west-pb
 kindle: http://mybook.to/violet-in-the-west
 kobo: https://www.kobo.com/ebook/violet-in-the-west
 ibooks: https://geo.itunes.apple.com/us/book/violet-in-the-west/id1452120714?mt=11
+barnesnoble: https://www.barnesandnoble.com/w/violet-in-the-west-janessa-suderman/1130362206
+nook: #
 
 ---
 

@@ -10,6 +10,8 @@ amazon: http://mybook.to/trails-in-the-wilderness-paperback
 kindle: http://mybook.to/trails-in-the-wilderness
 kobo: https://www.kobo.com/ebook/trails-in-the-wilderness
 ibooks: https://geo.itunes.apple.com/us/book/trails-in-the-wilderness/id1210874136?mt=11&at=1001luwG
+barnesnoble: https://www.barnesandnoble.com/w/trails-in-the-wilderness-janessa-j-r-suderman/1125697969
+
 ---
 
 ## Book 2 of the Summer Trails Series

@@ -10,6 +10,8 @@ amazon: http://mybook.to/trails-to-love-paperback
 kindle: http://mybook.to/trails-to-love
 kobo: https://www.kobo.com/ebook/trails-to-love
 ibooks: https://geo.itunes.apple.com/us/book/trails-to-love/id1210875798?mt=11&at=1001luwG
+barnesnoble: https://www.barnesandnoble.com/w/trails-to-love-janessa-j-r-suderman/1125696694
+
 ---
 
 ## Book 3 of the Summer Trails Series

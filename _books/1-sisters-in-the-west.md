@@ -11,6 +11,8 @@ amazon: http://mybook.to/sisters-in-the-west-pb
 kindle: http://mybook.to/sisters-in-the-west
 kobo: https://www.kobo.com/ebook/sisters-in-the-west
 ibooks: https://geo.itunes.apple.com/us/book/sisters-in-the-west/id1452120897?mt=11
+barnesnoble: https://www.barnesandnoble.com/w/sisters-in-the-west-janessa-suderman/1130364142
+nook: #
 
 ---
 

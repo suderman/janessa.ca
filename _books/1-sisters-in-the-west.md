@@ -1,7 +1,7 @@
 ---
 layout: book
 cover: /images/sisters-in-the-west.jpg 
-permalink: /books/sisters-in-the-west
+permalink: /books/sisters-in-the-west/
 title: Sisters in the West
 description: Claire and Nellie Preston are sisters; but that’s about all they have in common! 
 new: true

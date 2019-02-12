@@ -1,7 +1,7 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-2.jpg 
-permalink: /books/trails-in-the-wilderness
+permalink: /books/trails-in-the-wilderness/
 title: Trails in the Wilderness
 description: Come along for the ride with this thrilling sequel, for horse-lovers ages 11-18! Yee-haw!
 series: summer-trails

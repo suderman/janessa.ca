@@ -1,7 +1,7 @@
 ---
 layout: book
 cover: /images/violet-in-the-west.jpg 
-permalink: /books/violet-in-the-west
+permalink: /books/violet-in-the-west/
 title: Violet in the West
 description: Violet Anderson has always longed-for adventure…and she gets more than she bargained for in this thrilling journey to the Wild West!
 new: true

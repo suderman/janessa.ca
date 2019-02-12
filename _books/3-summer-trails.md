@@ -1,7 +1,7 @@
 ---
 layout: book
 cover: /images/Summer-Trails-Book-1.jpg 
-permalink: /books/summer-trails
+permalink: /books/summer-trails/
 title: Summer Trails
 description: A fresh and fun coming-of-age novella for ages 11-18, or anyone who loves horses!
 series: summer-trails

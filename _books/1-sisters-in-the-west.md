@@ -33,3 +33,8 @@ schemes, setting his sights on these naive newcomers.
 In a thrilling journey through a wilderness of deceit, self-discovery, and
 love, Claire and Nellie must learn to embrace who they truly are: Sisters in
 the West.
+
+> "Sisters in the West will take you along on a wild-west adventure where you will
+> find small-town cowboys, devilish outlaws, scandalous family secrets, and the
+> blush of new love. A perfect, clean page-turner for anyone in search of a
+> feel-good western historical-romance."

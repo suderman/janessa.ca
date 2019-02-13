@@ -38,3 +38,7 @@ trust. She and her friends are caught up in the middle of a deadly scheme; one
 that threatens Violet’s very existence. Her only hope is the man she barely
 knows; will Bart pull through and save her, or is he really as bad as his
 reputation promises?
+
+> "Violet in the West features a fearless heroine, evil villains, a handsome
+> outlaw and a plot full of drama and adventure. Sequel to Sisters in the West,
+> readers of all ages will devour this exciting western-historical-romance."

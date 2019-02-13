@@ -12,12 +12,10 @@ kindle: http://mybook.to/sisters-in-the-west
 kobo: https://www.kobo.com/ebook/sisters-in-the-west
 ibooks: https://geo.itunes.apple.com/us/book/sisters-in-the-west/id1452120897?mt=11
 barnesnoble: https://www.barnesandnoble.com/w/sisters-in-the-west-janessa-suderman/1130364142
-nook: #
 
 ---
 
-Claire and Nellie Preston are sisters; but that’s about all they have in
-common! 
+## Claire and Nellie Preston are sisters; but that’s about all they have in common! 
 
 Claire, a regal disciplinarian, has always kept watch over sweet-and-innocent
 Nellie. So when Nellie decides to move to West Peaks, Alberta, all Claire can

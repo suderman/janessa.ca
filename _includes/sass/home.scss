@@ -48,13 +48,17 @@ figure.hero {
 .feature {
   overflow: hidden;
   figure {
-    float: left;
-    width: 40%;
+    @media #{$md} {
+      float: left;
+      width: 40%;
+    }
     margin: 1em 0;
   }
   figcaption {
-    float: right;
-    width: 50%;
+    @media #{$md} {
+      float: right;
+      width: 50%;
+    }
     margin: 1em 0;
   }
 }

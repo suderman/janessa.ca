@@ -64,7 +64,12 @@ ul.buy {
     content: '99¢';
   }
   a.button[href="https://www.kobo.com/ebook/summer-trails"]:after,
-  a.button[href="https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG"]:after {
+  a.button[href="https://geo.itunes.apple.com/us/book/summer-trails/id1209883055?mt=11&at=1001luwG"]:after,
+
+  a.button[href="https://www.barnesandnoble.com/w/books/1130364142?ean=2940161258118"]:after,
+  a.button[href="http://mybook.to/sisters-in-the-west"]:after,
+  a.button[href="https://www.kobo.com/ebook/sisters-in-the-west"]:after,
+  a.button[href="https://geo.itunes.apple.com/us/book/sisters-in-the-west/id1452120897?mt=11"]:after {
     content: 'FREE!';
   }
 }

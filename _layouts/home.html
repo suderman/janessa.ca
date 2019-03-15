@@ -28,14 +28,22 @@ layout: compress
         </a>
       </figure>
       <figcaption>
+
+        {% if book.title == 'Sisters in the West' %}
+        <h2>FREE download:<br>{{ book.title }}</h2>
+        <p>Download the first eBook in this new western romance series for <strong>FREE</strong> <em>(limited&nbsp;offer)</em> available on 
+        {% else %}
         <h2>Now Available:<br>{{ book.title }}</h2>
         <p>Paperback is available for $6.49 USD on 
-          <a href="{{ book.amazon }}">Amazon</a>.</p>
-        <p>Download the eBook for $2.99 USD available on 
+        {% endif %}
+
           <a href="{{ book.kindle }}">Amazon&nbsp;Kindle</a>,
           <a href="{{ book.ibooks }}">Apple&nbsp;Books</a>,
           <a href="{{ book.kobo }}">Kobo</a>, and 
           <a href="{{ book.barnesnoble }}">Barnes&nbsp;&amp;&nbsp;Noble</a>.</p> 
+        <p>Paperback is available for $6.49 USD on 
+          <a href="{{ book.amazon }}">Amazon</a>.</p>
+
       </figcaption>
     </div>
 
@@ -43,6 +51,9 @@ layout: compress
     {% endfor %}
 
     {{ content }}
+
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+    <script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"efb20ef04e128d386990b2b7b","lid":"82c7f80166","uniqueMethods":true}) })</script>
   </div>
 </div>
 

@@ -43,7 +43,7 @@ the West.
 
 <p style="margin:0 auto;text-align:center;max-width:400px;">
 Download the first eBook in this new western romance series for
-<strong>FREE</strong> <em>(limited offer)</em>!
+<strong>99¢</strong> <em>(limited offer)</em>!
 </p>
 
 ---
